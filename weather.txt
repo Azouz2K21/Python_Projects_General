@@ -1,0 +1,15 @@
+The weather in Toronto is:
+10°C
+Time: Wednesday 4:51 p.m.
+
+
+The weather in Peterborough is:
+9°C
+Time: Wednesday 4:51 p.m.
+
+
+The weather in Scarborough is:
+11°C
+Time: Wednesday 4:51 p.m.
+
+
