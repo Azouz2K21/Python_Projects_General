@@ -25,3 +25,19 @@ To use the Weather Notification web-scraper, follow these steps:
 1. **Clone the repository to your local machine.**
    ```bash
    git clone https://github.com/your-username/weather-notification-web-scraper.git
+
+2. **Install the necessary dependencies.**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Configure the Google Search API credentials.**
+
+4. **Configure the Google Search API credentials.**
+   ```bash
+   Run the application.
+
+## Contributing
+
+If you'd like to contribute to this project, please follow these guidelines:
+
+
